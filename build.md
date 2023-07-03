@@ -1,4 +1,5 @@
 YouTube: 18.19.35  
+Messenger: 415.0.0.14.47  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
