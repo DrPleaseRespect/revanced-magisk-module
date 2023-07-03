@@ -21,5 +21,6 @@ build-mode = "module"
 version = "auto"
 
 [Photomath]
-enabled = true
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
+build-mode = "module"
+version = "auto"
