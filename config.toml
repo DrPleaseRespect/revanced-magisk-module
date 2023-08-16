@@ -100,6 +100,7 @@ apkmirror-arch = "arm64-v8a"
 
 [Tasker]
 enabled = true
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 
 [Photomath]
