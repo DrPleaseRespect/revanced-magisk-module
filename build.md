@@ -1,8 +1,8 @@
-YouTube-Extended: 18.30.37  
 YouTube: 18.23.35  
+YouTube-Extended: 18.30.37  
+Tasker: 6.2.12-rc  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
-
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
